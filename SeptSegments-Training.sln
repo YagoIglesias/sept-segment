@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeptSegments-Training", "SeptSegments-Training\SeptSegments-Training.csproj", "{3BB6383D-C3CB-47F3-BFE2-DBF5A94A9324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB6383D-C3CB-47F3-BFE2-DBF5A94A9324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB6383D-C3CB-47F3-BFE2-DBF5A94A9324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB6383D-C3CB-47F3-BFE2-DBF5A94A9324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB6383D-C3CB-47F3-BFE2-DBF5A94A9324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C090B7-D9DF-481D-AA3C-FA3A3598D2AD}
+	EndGlobalSection
+EndGlobal

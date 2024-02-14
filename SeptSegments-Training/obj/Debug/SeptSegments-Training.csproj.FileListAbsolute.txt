@@ -1,0 +1,7 @@
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\bin\Debug\SeptSegments-Training.exe.config
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\bin\Debug\SeptSegments-Training.exe
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\bin\Debug\SeptSegments-Training.pdb
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\obj\Debug\SeptSegments-Training.csproj.AssemblyReference.cache
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\obj\Debug\SeptSegments-Training.csproj.CoreCompileInputs.cache
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\obj\Debug\SeptSegments-Training.exe
+C:\Users\igles\Desktop\SeptSegments-Training\SeptSegments-Training\obj\Debug\SeptSegments-Training.pdb
